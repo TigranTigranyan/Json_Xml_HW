@@ -1,0 +1,47 @@
+[
+  {
+    "firstName": "Tigran",
+    "lastName": "Tigranyan",
+    "age": 18,
+    "address": {
+      "city": "Erevan",
+      "country": "Armenia",
+      "street": "Mashtots",
+      "postalCode": 2333
+    },
+    "phone": {
+      "phoneNumber": 98777777,
+      "numberType": "mobile"
+    }
+  },
+  {
+    "firstName": "Arman",
+    "lastName": "Sargsyan",
+    "age": 20,
+    "address": {
+      "city": "Erevan",
+      "country": "Armenia",
+      "street": "Komitas",
+      "postalCode": 23553
+    },
+    "phone": {
+      "phoneNumber": 98777888,
+      "numberType": "Work"
+    }
+  },
+  {
+    "firstName": "Naarek",
+    "lastName": "Simonyan",
+    "age": 30,
+    "address": {
+      "city": "Erevan",
+      "country": "Armenia",
+      "street": "Adonts",
+      "postalCode": 23443
+    },
+    "phone": {
+      "phoneNumber": 98777999,
+      "numberType": "Home"
+    }
+  }
+]

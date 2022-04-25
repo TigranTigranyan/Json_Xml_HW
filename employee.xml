@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <firstName>Suzy</firstName>
+    <lastName>Melkonyan</lastName>
+    <age>1</age>
+    <address>
+        <city>erevan</city>
+        <postalCode>12345</postalCode>
+        <street>komitas</street>
+    </address>
+    <phone>
+        <numberType>work</numberType>
+        <phoneNumber>987654321</phoneNumber>
+    </phone>
+</employeeXML>
